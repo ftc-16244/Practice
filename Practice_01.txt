@@ -38,14 +38,14 @@ There are a lot of online tutorials also.git
 
 --------------------------------------------------
 Group 1
+Name 1: 
+e-mail 1:
 
+Name 2:
+e-mail 2:
 
-
-
-
-
-
-
+Name 3:
+e-mail 3:
 
 
 
@@ -58,5 +58,12 @@ Group 1
 
 ------------------------------------------------
 Group 2
+Name 1: 
+e-mail 1L
 
+Name 2:
+e-mail 2:
+
+Name 3:
+e-mail 3:
 
