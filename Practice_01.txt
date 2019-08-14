@@ -59,11 +59,11 @@ e-mail 3:
 
 ------------------------------------------------
 Group 2
-Name 1: 
-e-mail 1L
+Name 1: Akhilesh Garipally 
+e-mail 1L akhileshgaripally8@gmail.com
 
-Name 2:
-e-mail 2:
+Name 2: Krishna Unnam
+e-mail 2: krichaitu.unnam6@gmail.com
 
 Name 3:
 e-mail 3:
