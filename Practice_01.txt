@@ -41,7 +41,7 @@ Group 1
 
 
 
-my notes for group 1
+
 
 
 
@@ -59,4 +59,4 @@ my notes for group 1
 ------------------------------------------------
 Group 2
 
-my notes for group 2
+
