@@ -1,7 +1,26 @@
 Practice_01 The first excercise in version control
 8/15/2019
+USe file manager to navigate to the place where your repository will be
+right click
+Select "Git Bash Here" this opens a command line where we will enter the version control commands
+create a new file (a txt file is a good one to practice with)
+go to the bash command window and type
+$ git init - this adds the git application to the folder we are working
+now add the new txt file to the local git repository by typing
+$ git add - now the new file is connected to the git tools
+now edit the text file. Add a few lines. Notepad++ is a good choice
+when all done editing and ready to lock down, type
+$git commit <filename> -m "note to explain changes and yout initials"
+don't forget the -m it is easier to do it this way. Otherwise you get an awakward text editor to deal with
+if you get that editor. you type the message at the top then :wq to exit out.
+now your txt file is locked down in the local git repository
+now it is time to send the file to the cloud or remote repository so others can access it.
+to do do this type
+$git push <filename>
 
-
+in between steps, type
+$git status 
+to see what stage the files are in
 --------------------------------------------------
 Group 1
 
