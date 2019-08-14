@@ -16,7 +16,7 @@ if you get that editor. you type the message at the top then :wq to exit out.
 now your txt file is locked down in the local git repository
 now it is time to send the file to the cloud or remote repository so others can access it.
 to do do this type
-$git push <filename>
+$git push
 
 in between steps, type
 $git status 
@@ -33,7 +33,7 @@ So at first start up enter the following
 $git congig --global user.name "Your Name"
 $git config --global user.email "your.email@provider.com"
 
-There are a lot of online tutorials also.
+There are a lot of online tutorials also.git 
 --------------------------------------------------
 Group 1
 
