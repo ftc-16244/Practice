@@ -1,5 +1,6 @@
 Practice_01 The first excercise in version control
 8/15/2019
+
 Use file manager to navigate to the place where your repository will be
 right click
 Select "Git Bash Here" this opens a command line where we will enter the version control commands
