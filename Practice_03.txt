@@ -65,6 +65,4 @@ e-mail 1
 Name 2: 
 e-mail 2:
 
-Name 3:
-e-mail 3:
 
