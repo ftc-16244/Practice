@@ -1,0 +1,70 @@
+Practice_01 The first excercise in version control
+8/15/2019
+Use file manager to navigate to the place where your repository will be
+right click
+Select "Git Bash Here" this opens a command line where we will enter the version control commands
+create a new file (a txt file is a good one to practice with)
+go to the bash command window and type
+$ git init - this adds the git application to the folder we are working
+now add the new txt file to the local git repository by typing
+$ git add - now the new file is connected to the git tools
+now edit the text file. Add a few lines. Notepad++ is a good choice
+when all done editing and ready to lock down, type
+$git commit <filename> -m "note to explain changes and yout initials"
+don't forget the -m it is easier to do it this way. Otherwise you get an awakward text editor to deal with
+if you get that editor. you type the message at the top then :wq to exit out.
+now your txt file is locked down in the local git repository
+now it is time to send the file to the cloud or remote repository so others can access it.
+to do do this type
+$git push
+
+ 
+in between steps, type
+$git status 
+to see what stage the files are in
+
+to copy paste in the bash window, highlight the text to copy. Then place the cursor where you what to paste.
+then press ctrl-shift-insert to paste.
+This saves a lot of tpying
+
+when starting new coding session you need to tell git who you are.
+Since the computers are shared, we need to know who changed what.
+So at first start up enter the following
+
+$git congig --global user.name "Your Name"
+$git config --global user.email "your.email@provider.com"
+ 
+There are a lot of online tutorials also.git 
+
+
+--------------------------------------------------
+Group 1
+Name 1: Disha Rathod
+e-mail 1:disrathod@dunlapstudents.net
+
+Name 2: Nikita Rudrapati		
+e-mail 2: nikrudrapati@dunlapstudents.net
+
+Name 3:
+e-mail 3:
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------
+Group 2
+Name 1:  
+e-mail 1
+
+Name 2: 
+e-mail 2:
+
+Name 3:
+e-mail 3:
+
