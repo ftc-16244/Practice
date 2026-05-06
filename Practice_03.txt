@@ -39,18 +39,11 @@ There are a lot of online tutorials also.git
 
 --------------------------------------------------
 Group 1
-Name 1: Disha Rathod
-e-mail 1:disrathod@dunlapstudents.net
+Name 1:
+e-mail 1:
 
-Name 2: Nikita Rudrapati		
-e-mail 2: nikrudrapati@dunlapstudents.net
-
-Name 3:
-e-mail 3:
-
-
-
-
+Name 2:
+e-mail 2:
 
 
 
@@ -59,10 +52,10 @@ e-mail 3:
 
 ------------------------------------------------
 Group 2
-Name 1:  Mara Hindenburg
-e-mail 1 pEPpA_wHaT_arE_You_DoInG_In_mY_EMaiL?????
+Name 1:
+e-mail 1:
 
-Name 2: Donut Davis
-3[,73 46 u83l29;v72v-mail 2: j;n'rdinfbijpfjnsacsllh.rhpofruwiu94 2ri
+Name 2:
+Email 2:
 
 
